@@ -1,0 +1,27 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Luvia Theme",
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "terminal.integrated.gpuAcceleration": "off",
+    "editor.fontFamily": "'Fira Code Retina'",
+    "editor.fontLigatures": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.wordWrap": "on",
+    "git.autofetch": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "diffEditor.wordWrap": "on",
+    "editor.minimap.enabled": true,
+    "window.menuBarVisibility": "toggle",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.external.linuxExec": "/usr/bin/nodejs",
+    "json.schemas": [
+    
+    ],
+    "editor.codeActionsOnSave": {
+    
+    },
+
+}
