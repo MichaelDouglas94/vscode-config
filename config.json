@@ -5,7 +5,7 @@
     "workbench.colorTheme": "Luvia Theme",
     "explorer.confirmDelete": false,
     "git.enableSmartCommit": true,
-    "terminal.integrated.gpuAcceleration": "off",
+    "terminal.integrated.gpuAcceleration": true,
     "editor.fontFamily": "'Fira Code Retina'",
     "editor.fontLigatures": true,
     "liveServer.settings.donotShowInfoMsg": true,
