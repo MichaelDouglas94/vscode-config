@@ -1,11 +1,12 @@
 {
     "files.autoSave": "afterDelay",
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Nord",
     "workbench.startupEditor": "none",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Luvia Theme",
     "explorer.confirmDelete": false,
     "git.enableSmartCommit": true,
-    "terminal.integrated.gpuAcceleration": true,
+    "terminal.integrated.gpuAcceleration": "on",
     "editor.fontFamily": "'Fira Code Retina'",
     "editor.fontLigatures": true,
     "liveServer.settings.donotShowInfoMsg": true,
@@ -17,11 +18,11 @@
     "window.menuBarVisibility": "toggle",
     "terminal.integrated.cursorStyle": "line",
     "terminal.external.linuxExec": "/usr/bin/nodejs",
-    "json.schemas": [
-    
-    ],
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.untrustedFiles": "open",
     "editor.codeActionsOnSave": {
     
-    }
 
+    }
 }
