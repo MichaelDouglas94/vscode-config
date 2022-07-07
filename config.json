@@ -9,6 +9,7 @@
     "terminal.integrated.gpuAcceleration": "on",
     "editor.fontFamily": "'Fira Code Retina'",
     "editor.fontLigatures": true,
+    "editor.fontLigatures": true,
     "liveServer.settings.donotShowInfoMsg": true,
     "editor.wordWrap": "on",
     "git.autofetch": true,
